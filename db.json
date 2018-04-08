@@ -1,0 +1,107 @@
+{
+  "work-orders": [
+    {
+      "surveyInfoId": 1,
+      "linkMan": "11111111",
+      "regionName": "22222",
+      "addressDetail": "chengdushic",
+      "status": "05",
+      "statusName": "方案完成"
+    },
+    {
+      "surveyInfoId": 2,
+      "linkMan": "2222222",
+      "regionName": "22222",
+      "addressDetail": "cishcaaa",
+      "status": "01",
+      "statusName": "已派工"
+    },
+    {
+      "surveyInfoId": 3,
+      "linkMan": "3333333333",
+      "regionName": "22222",
+      "addressDetail": "chengdusddddddddddddddhic",
+      "status": "02",
+      "statusName": "现勘中"
+    }
+  ],
+  "build-plans": {
+    "surveyInfoId": 1,
+    "account": "11111111",
+    "contract": "22222",
+    "area": "chengdushic",
+    "detailArea": "张家港红市村XXXXXXX",
+    "modalCapacity": "SK6610M-280/8.4kW",
+    "installType": "平屋顶",
+    "userOrderTime": "2017-12-11",
+    "installTime": "2017-12-12",
+    "projectName": "testProject",
+    "worker": "赵大爷",
+    "workerPhone": "13554xxx",
+    "serviceName": "天启~",
+    "servicePhone": "023-1111111",
+    "status": "00",
+    "statusStr": "已受理"
+  },
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "information-list": [
+    {
+      "pageId": "1",
+      "annouTitle": "品牌再升级，爱康绿色家园引领分布式光伏系统新潮流",
+      "src": "assets/img/prod/db_pic.png",
+      "annouCreateTime": "2017-12-12",
+      "annouContent": "在此背景下，2017年11月25日，由《品质》、工信部电子工业出版社、华信研究院、《经济观察报》等媒体责任发起举办的“第三届中国制造2025高峰论坛暨2017中国制造年度颁奖盛典”在北京国家会议中心隆重举行。在此次盛典上，各路制造业大咖齐聚一堂，通过活动现场高质量的主题设置及深入探讨挖掘出行业的市场前景，在分析现状的同时为优秀的企业探究新的商业机遇，探索无限广阔的蓝海。"
+    },
+    {
+      "pageId": "2",
+      "annouTitle": "爱康合伙人财富沙龙盛大开启",
+      "src": "assets/img/prod/db_pic.png",
+      "annouCreateTime": "2017-12-12",
+      "annouContent": "金秋十月，秋风送爽、丹桂飘香，爱康集团员工迎来了首个“爱康合伙人-共享阳光"
+    },
+    {
+      "pageId": "3",
+      "annouTitle": "实至名归！爱康绿色家园荣获“2017光伏经销商最喜爱家用光伏系统品牌“大奖",
+      "src": "assets/img/prod/db_pic.png",
+      "annouCreateTime": "2017-12-12",
+      "annouContent": "2017年12月12日，中国首届分布式光伏太阳谷论坛暨2018光伏经销商采购洽谈会在山东德州，中国太阳谷国际会议中心隆重召开。作为分布式光伏系统领跑者，爱康绿色家园应邀参加此次盛会，爱康绿色家园副总经理徐斌作为对话嘉宾在大会上进行发言，爱康绿色家园凭借超高人气一举荣获“2017光伏经销商最喜爱家用光伏系统品牌“大奖。"
+    }
+  ],
+  "information-detail": {
+    "pageId": "1",
+    "annouTitle": "实至名归！爱康绿色家园荣获“2017光伏经销商最喜爱家用光伏系统品牌“大奖",
+    "src": "assets/img/prod/db_pic.png",
+    "annouCreateTime": "2017-12-12",
+    "annouContent": "2017年12月12日，中国首届分布式光伏太阳谷论坛暨2018光伏经销商采购洽谈会在山东德州，中国太阳谷国际会议中心隆重召开。作为分布式光伏系统领跑者，爱康绿色家园应邀参加此次盛会，爱康绿色家园副总经理徐斌作为对话嘉宾在大会上进行发言，爱康绿色家园凭借超高人气一举荣获“2017光伏经销商最喜爱家用光伏系统品牌“大奖。"
+  },
+  "views-table": [
+    {
+      "read": "y",
+      "viewcontent": "《系统》你的现堪申请已受理，工作人员会在2天内与你取得联系"
+    },
+    {
+      "read": "y",
+      "viewcontent": "《系统》你的现堪申请已受理，工作人员会在2天内与你取得联系"
+    },
+    {
+      "read": "n",
+      "viewcontent": "《系统》你的现堪申请已受理，工作人员会在2天内与你取得联系"
+    },
+    {
+      "read": "n",
+      "viewcontent": "《系统》你的现堪申请已受理，工作人员会在2天内与你取得联系"
+    }
+  ],
+  "views-detail": {
+    "viewscontent": "《系统》你的现堪申请已受理，工作人员会在2天内与你取得联系"
+  }
+}
